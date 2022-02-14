@@ -4,8 +4,9 @@ Rencana Belajar Git & GitHub
 3. GitHub:Branch -done-
    - create branch
    - merge
-   - delete
-4. GitHub: Fork -done-
+     resolve conflict saat merge
+   - delete branch yg tidak dibutuhkan
+4. GitHub: Fork
 5. Bekerja dengan Git
 6. Git Branch & Merge
 7. Git Merge Conflict
