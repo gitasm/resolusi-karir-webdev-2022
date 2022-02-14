@@ -2,7 +2,10 @@ Rencana Belajar Git & GitHub
 1. Apa itu Git & GitHub -done-
 2. Bekerja dengan GitHub -done-
 3. GitHub:Branch -done-
-4. GitHub: Fork
+   - create branch
+   - merge
+   - delete
+4. GitHub: Fork -done-
 5. Bekerja dengan Git
 6. Git Branch & Merge
 7. Git Merge Conflict
