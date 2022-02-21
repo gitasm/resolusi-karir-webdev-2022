@@ -6,8 +6,8 @@ Rencana Belajar Git & GitHub
    - merge
      resolve conflict saat merge
    - delete branch yg tidak dibutuhkan
-4. GitHub: Fork
-5. Bekerja dengan Git
+4. GitHub: Fork -done-
+5. Bekerja dengan Git -done-
 6. Git Branch & Merge
 7. Git Merge Conflict
 8. Git Remote
