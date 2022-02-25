@@ -1,0 +1,11 @@
+Belajar Framework TailwindCSS dari Channel YouTube WPU by Sandhika Galih
+1. Apa itu TailwindCSS ? -done-
+2. Kenapa TailwindCSS ? -done-
+3. Instalasi & Konfigurasi -done-
+4. Basic Utility - Bagian 1 
+5. Basic Utility - Bagian 2
+6. Pseudo class & dark mode
+7. Transform, transition, & animation
+8. Layouting
+9. Responsive Design
+10. Flexbox
