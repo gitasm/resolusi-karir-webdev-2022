@@ -9,9 +9,9 @@ Rencana Belajar Git & GitHub
 4. GitHub: Fork -done-
 5. Bekerja dengan Git -done-
 6. Git Branch & Merge -done-
-7. Git Merge Conflict
-8. Git Remote
-9. GitHub Pages
+7. Git Merge Conflict -done-
+8. Git Remote -done-
+9. GitHub Pages -done-
 10. Multiple Remotes
 11. Remote Branch
 12. Git Ignore
