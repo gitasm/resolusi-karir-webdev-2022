@@ -4,9 +4,12 @@ Resolusi karir Gita sebagai Web Developer di tahun 2022
   - HTML
   - CSS
   - JS
-  - Framework2 yang berkaitan dengan Front End Development
+  - Framework2 yang berkaitan dengan Front End Development, misalnya:
+       ^ Bootstrap
+       ^ Tailwind
+       ^ React
   Tiap hari minimal 2 jam belajar, dan bikin jurnalnya!
 2.Konsisten bikin portofolio
   - 1 minggu minimal 1 portofolio dari UX Design hingga web yg running  dgn baik
 3.Konsisten cari project lewat freelancing website dan juga offline
-  - 1 job setiap 2 hari
+  - 1 job setiap 1 minggu
